@@ -1,4 +1,4 @@
----
+B---
 manufacturer:
     - huawei
 
